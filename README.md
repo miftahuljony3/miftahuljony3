@@ -86,6 +86,6 @@ If you need a reliable web platform, DevOps setup, network architecture, payment
 
 <div align="center">
 
-Building reliable systems from Rangpur, Bangladesh.
+Building reliable systems from Bangladesh.
 
 </div>
