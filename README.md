@@ -52,14 +52,9 @@ I build products that are practical, maintainable, and ready for real-world use,
 ## Tech & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VPS-0078D4?style=for-the-badge&logo=serverfault&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-0052CC?style=for-the-badge&logo=cisco&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,linux,php,rails,rust,react,ts,postgres,redis,cloudflare,laravel&perline=16" alt="aws, terraform, docker, kubernetes, github actions, linux, php, rails, rust, react, typescript, postgres, redis, cloudflare, laravel" />
+  </a>
 </p>
 
 ---
