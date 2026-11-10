@@ -84,12 +84,12 @@ I build products that are practical, maintainable, and ready for real-world use,
 
 <p align="left">
   <a href="https://github.com/miftahuljony3?achievement=quickdraw&tab=achievements" title="Quickdraw"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="96" height="96" /></a>
-  <a href="https://github.com/miftahuljony3?achievement=pair-extraordinaire&tab=achievements" title="Pair Extraordinaire (x3)"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-silver.png" alt="Pair Extraordinaire (x3)" width="96" height="96" /></a>
+  <a href="https://github.com/miftahuljony3?achievement=pair-extraordinaire&tab=achievements" title="Pair Extraordinaire (x4)"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png" alt="Pair Extraordinaire (x4)" width="96" height="96" /></a>
   <a href="https://github.com/miftahuljony3?achievement=pull-shark&tab=achievements" title="Pull Shark (x3)"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png" alt="Pull Shark (x3)" width="96" height="96" /></a>
   <a href="https://github.com/miftahuljony3?achievement=yolo&tab=achievements" title="YOLO"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" width="96" height="96" /></a>
 </p>
 
-**Quickdraw** · **Pair Extraordinaire (x3)** · **Pull Shark (x3)** · **YOLO**
+**Quickdraw** · **Pair Extraordinaire (x4)** · **Pull Shark (x3)** · **YOLO**
 
 [View all achievements](https://github.com/miftahuljony3?tab=achievements)
 
